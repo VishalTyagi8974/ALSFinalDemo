@@ -1,0 +1,13 @@
+.HeroAboutSection {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+ background:no-repeat center/cover url("aboutPage/bg.svg");
+
+
+
+    z-index: -2;
+    /* clip-path: polygon(0 0, 100% 0, 100% 240px, 0 480px); */
+}
